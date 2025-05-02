@@ -32,7 +32,7 @@
 | HTML e CSS | Curso em Video | 2021 |
 | JavaScript | Curso em Video | 2023 |
 | Python | Curso em Video | 2021 |
-| Full Stack Pyhton | EBAC | 2024 |
+| Full Stack Python | EBAC | 2024 |
 
 ---
 
